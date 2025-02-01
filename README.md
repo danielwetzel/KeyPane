@@ -3,7 +3,6 @@
 A lightweight and elegant macOS utility that displays special characters for your keyboard with a modern, native UI.
 
 ![KeyPane Main Interface](screenshots/main_interface.png)
-*Screenshot placeholder: Main interface showing the keyboard layout with special characters*
 
 ## Features
 
