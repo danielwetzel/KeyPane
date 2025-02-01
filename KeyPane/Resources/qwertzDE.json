@@ -1,0 +1,74 @@
+{
+    "row2": [
+        {"key":"^", "opt": "„", "optShift": "“", "shift": "°"},
+        {"key":"1", "opt": "¡", "optShift": "¬", "shift": "!"},
+        {"key":"2", "opt": "“", "optShift": "”", "shift": "\""},
+        {"key":"3", "opt": "¶", "optShift": "#", "shift": "§"},
+        {"key":"4", "opt": "¢", "optShift": "£", "shift": "$"},
+        {"key":"5", "opt": "[", "optShift": "ﬁ", "shift": "%"},
+        {"key":"6", "opt": "]", "optShift": "^", "shift": "&"},
+        {"key":"7", "opt": "|", "optShift": "\\", "shift": "/"},
+        {"key":"8", "opt": "{", "optShift": "˜", "shift": "("},
+        {"key":"9", "opt": "}", "optShift": "·", "shift": "}"},
+        {"key":"0", "opt": "≠", "optShift": "¯", "shift": "="},
+        {"key":"ß", "opt": "¿", "optShift": "˙", "shift": "?"},
+        {"key":"´", "opt": "'", "optShift": "˚", "shift": "`"},
+        {"key":"⌫", "opt": "⌫", "optShift": "⌫", "shift": "⌫"}
+    ], 
+    "row3": 
+    [
+        {"key":"⇥", "opt": "⇥", "optShift": "⇥", "shift": "⇥"},
+        {"key":"q", "opt": "«", "optShift": "»", "shift": "Q"},
+        {"key":"w", "opt": "∑", "optShift": "„", "shift": "W"},
+        {"key":"e", "opt": "€", "optShift": "‰", "shift": "E"},
+        {"key":"r", "opt": "®", "optShift": "¸", "shift": "R"},
+        {"key":"t", "opt": "†", "optShift": "´", "shift": "T"},
+        {"key":"z", "opt": "Ω", "optShift": "ˇ", "shift": "Z"},
+        {"key":"u", "opt": "¨", "optShift": "Á", "shift": "U"},
+        {"key":"i", "opt": "⁄", "optShift": "Û", "shift": "I"},
+        {"key":"o", "opt": "ø", "optShift": "Ø", "shift": "O"},
+        {"key":"p", "opt": "π", "optShift": "∏", "shift": "P"},
+        {"key":"ü", "opt": "•", "optShift": "°", "shift": "Ü"},
+        {"key":"+", "opt": "±", "optShift": "", "shift": "*"},
+        {"key":"⏎", "opt": "⏎", "optShift": "⏎", "shift": "⏎"}
+    ],
+    "row4": 
+    [
+        {"key":"⇪", "opt": "⇪", "optShift": "⇪", "shift": "⇪"},
+        {"key":"a", "opt": "å", "optShift": "Å", "shift": "A"},
+        {"key":"s", "opt": "‚", "optShift": "Í", "shift": "S"},
+        {"key":"d", "opt": "∂", "optShift": "™", "shift": "D"},
+        {"key":"f", "opt": "ƒ", "optShift": "Ï", "shift": "F"},
+        {"key":"g", "opt": "©", "optShift": "Ì", "shift": "G"},
+        {"key":"h", "opt": "ª", "optShift": "Ó", "shift": "H"},
+        {"key":"j", "opt": "º", "optShift": "ı", "shift": "J"},
+        {"key":"k", "opt": "∆", "optShift": "ˆ", "shift": "K"},
+        {"key":"l", "opt": "@", "optShift": "ﬂ", "shift": "L"},
+        {"key":"ö", "opt": "œ", "optShift": "Œ", "shift": "Ö"},
+        {"key":"ä", "opt": "æ", "optShift": "Æ", "shift": "Ä"},
+        {"key":"#", "opt": "‘", "optShift": "’", "shift": "'"}
+    ],
+    "row5": [
+        {"key":"⇧", "opt": "⇧", "optShift": "⇧", "shift": "⇧"},
+        {"key":"<", "opt": "≤", "optShift": "≥", "shift": ">"},
+        {"key":"y", "opt": "¥", "optShift": "‡", "shift": "Y"},
+        {"key":"x", "opt": "≈", "optShift": "Ù", "shift": "X"},
+        {"key":"c", "opt": "ç", "optShift": "Ç", "shift": "C"},
+        {"key":"v", "opt": "√", "optShift": "◊", "shift": "V"},
+        {"key":"b", "opt": "∫", "optShift": "‹", "shift": "B"},
+        {"key":"n", "opt": "~", "optShift": "›", "shift": "N"},
+        {"key":"m", "opt": "µ", "optShift": "˘", "shift": "M"},
+        {"key":",", "opt": "∞", "optShift": "˛", "shift": ";"},
+        {"key":".", "opt": "…", "optShift": "÷", "shift": ":"},
+        {"key":"-", "opt": "–", "optShift": "—", "shift": "_"},
+        {"key":"⇧", "opt": "⇧", "optShift": "⇧", "shift": "⇧"}
+    ],
+    "row6": [
+        {"key":"control", "opt": "control", "optShift": "control", "shift": "control"},
+        {"key":"option", "opt": "option", "optShift": "option", "shift": "option"},
+        {"key":"command", "opt": "command", "optShift": "command", "shift": "command"},
+        {"key":" ", "opt": " ", "optShift": " ", "shift": " "},
+        {"key":"command", "opt": "command", "optShift": "command", "shift": "command"},
+        {"key":"option", "opt": "option", "optShift": "option", "shift": "option"}
+    ]
+} 
